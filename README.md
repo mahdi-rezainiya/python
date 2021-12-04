@@ -40,12 +40,27 @@ age+fname = TypeError: unsupported operand type(s) for +: 'int' and 'str' becaus
 30+10 = 40 can plus to numbers
 age1 = 30
 age2 = 32
-jjhhgghghhghhhjjjjhj
-
-
-
-
-
+name = "     hello My name is mahdi     "
+name.lstrip() = hello My name is mahdi          this method deletes spaces in left side
+name.rstrip() =      hello My name is mahdi     this method deletes spaces in right side
+name.strip() = hello My name is mahdi           this method deletes spaces in all side
+(print("hello")  #python3) but in python2 is (print "hello"   #python2)
+3**3 = 27    this is 3 to the power of 3
+3**3*2 = 54  in here you have to power of then multiplaying
+(3+3)*2 = 12 in here Priority is with parenthesize after that with other(s)
+3+(3*2) = 9  in here Priority is with parenthesize after that with other(s)
+.2+.4 = 0.6  we can don't add zero before point
+8/3 = 2.6666666666666665   here divide is with one divider
+8//3 = 2                   here divide is with two divider
+#memory  refrences       #memory cells
+memory divides to many parts and call them cell that is possible one object refrence to one cell or more and an object was refrenced by two or more cells
+#How to find the memory address of a variable? with id()
+age = 15
+id(age) = 94692641422272 
+binary numbers contain 0 and 1 , decimal numbers contain 0,...9 , hexadecimal numbers contain 0,....,9 and a,b,c,d,e,f
+hex(id(age)) = 0x561f59413bc0
+hex(10) = 0xa
+hex(24) = 0x18 
 
 
 
