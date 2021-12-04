@@ -40,8 +40,7 @@ age+fname = TypeError: unsupported operand type(s) for +: 'int' and 'str' becaus
 30+10 = 40 can plus to numbers
 age1 = 30
 age2 = 32
-
-
+jjhhgghghhghhhjjjjhj
 
 
 
